@@ -1,0 +1,23 @@
+<RCC>
+  <qresource prefix="icons">
+    <file>wm_ico.png</file>
+    <file>freq_co_ico.png</file>
+    <file>lampe_1.png</file>
+    <file>co_ico.png</file>
+    <file>gui_co_ico.png</file>
+    <file>cloud_co_ico.png</file>
+    <file>tcp_co_ico.png</file>
+    <file>fh_logo.png</file>
+    <file>database_ico.png</file>
+    <file>gateway_ico.png</file>
+    <file>gui_ico.png</file>
+    <file>fh_logo.png</file>
+    <file>menue.png</file>
+    <file>kreis.png</file>
+    <file>maximieren.png</file>
+    <file>minimieren.png</file>
+    <file>schließen.png</file>
+    <file>waschmaschine.png</file>
+    <file>zurueck.png</file>
+  </qresource>
+</RCC>
