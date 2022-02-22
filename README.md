@@ -7,4 +7,4 @@ Die zum maschinellen Lernen verwendete Trainingsdatenbank wurde mittels Jupyter 
 
 Weiterführende Informationen und Anleitungen zum Testen des Programms sind in der Dokumentation "Washing machine - IMU" zu finden. Hier wird das verwendete IoT-Kit und die Projektstruktur erläutert.
 
-Hinweis: Verwenden Sie zum Testen alle im ESP hinterlegten Dateien und lesen Sie die Anleitung in der Dokumentation!
+Hinweis: Verwenden Sie zum Testen nur die im Ordner "ESP" gespeicherten Dateien und machen Sie sich im Vorfeld mit der in der Dokumentaion enthaltenen Anleitung vertraut!
